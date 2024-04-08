@@ -4,7 +4,7 @@ Azure Cognitive Search ou Azure AI Search é um serviço que oferece recuperaç�
 
 # Criando o ambiente para desenvolvimento
 
-1. Criar os recursos AI Search, o Azure AI Services e o Storage Account
+1. Para utilizar o Azure AI primeiro precisamos criar os recursos AI Search, o Azure AI Services e o Storage Account
 
 # Criando o AI Search
 
@@ -38,3 +38,6 @@ Azure Cognitive Search ou Azure AI Search é um serviço que oferece recuperaç�
 9. Por último, clique em create an indexer e configure com o name e clique em submit
 10. Caso deseja ver o resultado, volta para tela inicial do seu AI Search e procure pelo Search Explorer e teste a pesquisa pela lupa com esse texto:  search=locations:'Chicago'  e cliqe em Submit/enviar
 
+# Conclusão
+Esse laboratório é bem complicado de desenvolver, pois existem N Fatores a se prestar atenção, especialmente por utilizar não um recursos, mas três que no final irão se conectar em só um. Ele deve ser feito com calma e obsevando as explicações da Valeria.
+Finalizando, a funcionalidade dos recursos das pesquisas podem ser utilizadas em muitas outras ferramentas, como em portais de conteúdo e documentação, intranets corporativas, aplicativos de comércio eletrônico e varejo, chatbots de apoio a cliente, filtros inteligentes, enfim as possibilidades são amplas e esses são só alguns pequenos exemplos.
